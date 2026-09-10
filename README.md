@@ -80,7 +80,17 @@ Countdown Widget
 Deadline Widget
 
 These widgets allow users to view important countdown information directly from their Android home screen.
+## 🚀 Future Plans
 
+The project is under continuous development. Future updates may include:
+
+- 📊 Performance analysis and productivity tracking
+- 📈 Insights based on completed goals and deadlines
+- ⏱️ Tracking progress toward personal goals
+- 📅 Goal completion statistics
+- 🔔 Improved notification and reminder controls
+- 🎨 More customization options for countdowns and widgets
+- 📱 Additional widget designs and layouts
 Author
 
 Aashi Gupta
