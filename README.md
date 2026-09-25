@@ -1,4 +1,4 @@
-# ⏳ Countdown & Widget
+#  Countdown & Widget
 
 ### A simple countdown app with Android home screen widgets
 
@@ -14,7 +14,7 @@ The app combines a simple countdown interface with **native Android home screen 
 
 ---
 
-## 📱 Download
+##  Download
 
 The application is available on the Google Play Store.
 
@@ -22,19 +22,19 @@ The application is available on the Google Play Store.
 
 ---
 
-## ✨ Features
+##  Features
 
-* ⏳ Create countdowns for important events
-* 📅 Track deadlines and goal dates
-* 🕐 View remaining days and time
-* ✏️ Edit existing countdowns
-* 🗑️ Delete countdowns
-* 🏠 Android home screen countdown widget
-* 📌 Dedicated deadline widget
-* 🔔 Local notifications and reminders
-* 💾 Persistent local data storage
-* 🔄 Countdown data persists across app sessions
-* 📱 Native Android widget integration
+*  Create countdowns for important events
+*  Track deadlines and goal dates
+*  View remaining days and time
+*  Edit existing countdowns
+*  Delete countdowns
+*  Android home screen countdown widget
+*  Dedicated deadline widget
+*  Local notifications and reminders
+*  Persistent local data storage
+*  Countdown data persists across app sessions
+*  Native Android widget integration
 
 ---
 
@@ -59,7 +59,7 @@ The application is available on the Google Play Store.
 
 ---
 
-## 🏗️ Application Architecture
+##  Application Architecture
 
 The application combines **Flutter/Dart** for the main application experience with **native Kotlin** components for Android home screen widgets.
 
@@ -99,7 +99,7 @@ The application combines **Flutter/Dart** for the main application experience wi
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 ### 1. Create an Event
 
@@ -163,7 +163,7 @@ Home Screen Widget
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend / Application
 
@@ -197,7 +197,7 @@ Home Screen Widget
 
 ---
 
-## 📦 Packages
+##  Packages
 
 | Package                       | Purpose                                           |
 | ----------------------------- | ------------------------------------------------- |
@@ -209,7 +209,7 @@ Home Screen Widget
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Count-Down-Widget-/
@@ -232,17 +232,17 @@ Count-Down-Widget-/
 
 ---
 
-## 🤖 Android Widget Architecture
+##  Android Widget Architecture
 
 One of the key parts of this project is the integration between Flutter and native Android.
 
 The application contains two native widgets:
 
-### ⏳ Countdown Widget
+###  Countdown Widget
 
 Displays the remaining time for a selected countdown directly on the Android home screen.
 
-### 📅 Deadline Widget
+###  Deadline Widget
 
 Provides a dedicated widget for important deadlines and target dates.
 
@@ -266,7 +266,7 @@ This allows the project to combine the flexibility of Flutter with platform-spec
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -304,7 +304,7 @@ flutter run
 
 ---
 
-## 🔐 Permissions
+##  Permissions
 
 Depending on the Android version and enabled functionality, the application may use permissions related to:
 
@@ -316,7 +316,7 @@ These permissions support scheduled reminders and maintaining countdown-related 
 
 ---
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 
 This project provided hands-on experience with:
 
@@ -333,23 +333,23 @@ This project provided hands-on experience with:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Potential future enhancements include:
 
-* 📊 Productivity and performance insights
-* 📈 Goal progress tracking
-* 📅 Goal completion statistics
-* 🔔 More flexible notification controls
-* 🎨 Additional countdown themes
-* 🖼️ More widget layouts and customization
-* 🌈 Custom colors and backgrounds
-* 📱 Additional widget sizes
-* ☁️ Optional cloud synchronization
+*  Productivity and performance insights
+*  Goal progress tracking
+*  Goal completion statistics
+*  More flexible notification controls
+*  Additional countdown themes
+*  More widget layouts and customization
+*  Custom colors and backgrounds
+*  Additional widget sizes
+*  Optional cloud synchronization
 
 ---
 
-## 📱 Published Application
+##  Published Application
 
 **Countdown & Widget** is available on Google Play.
 
@@ -357,7 +357,7 @@ Potential future enhancements include:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Aashi Gupta**
 
@@ -369,6 +369,6 @@ Interested in building applications using:
 
 ---
 
-## 📄 License
+
 
 This project was created for educational and personal development purposes.
