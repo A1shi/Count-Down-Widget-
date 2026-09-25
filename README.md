@@ -40,11 +40,11 @@ The application is available on the Google Play Store.
 
 ## 📸 Screenshots
 
-Add your actual application screenshots here.
+.
 
 ```text
 screenshots/
-├── home.png
+├── count_down_icon
 ├── add-countdown.png
 ├── countdown.png
 ├── countdown-widget.png
