@@ -38,18 +38,7 @@ The application is available on the Google Play Store.
 
 ---
 
-## 📸 Screenshots
 
-.
-
-```text
-screenshots/
-├── count_down_icon
-├── add-countdown.png
-├── countdown.png
-├── countdown-widget.png
-└── deadline-widget.png
-```
 
 ### App Interface
 
@@ -62,8 +51,8 @@ screenshots/
 ### Android Widgets
 
 <p align="center">
-  <img src="screenshots/countdown-widget.png" width="250">
-  <img src="screenshots/deadline-widget.png" width="250">
+  <img src="WhatsApp Image 2026-08-26 at 1.58.42 PM (1).jpeg" width="250">
+  <img src="WhatsApp Image 2026-08-26 at 1.58.42 PM.jpeg" width="250">
 </p>
 
 
