@@ -54,9 +54,9 @@ screenshots/
 ### App Interface
 
 <p align="center">
-  <img src=":\Users\aashi\Downloads\count_down_icon_512x512" width="220">
-  <img src="screenshots/add-countdown.png" width="220">
-  <img src="screenshots/countdown.png" width="220">
+  <img src="WhatsApp Image 2026-08-26 at 1.58.41 PM.jpeg" width="220">
+  <img src="WhatsApp Image 2026-08-26 at 1.58.41 PM (1).jpeg" width="220">
+  <img src="WhatsApp Image 2026-08-26 at 1.58.41 PM (2).jpeg" width="220">
 </p>
 
 ### Android Widgets
