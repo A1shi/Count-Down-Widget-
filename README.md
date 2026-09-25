@@ -54,7 +54,7 @@ screenshots/
 ### App Interface
 
 <p align="center">
-  <img src="screenshots/home.png" width="220">
+  <img src=":\Users\aashi\Downloads\count_down_icon_512x512" width="220">
   <img src="screenshots/add-countdown.png" width="220">
   <img src="screenshots/countdown.png" width="220">
 </p>
@@ -66,7 +66,7 @@ screenshots/
   <img src="screenshots/deadline-widget.png" width="250">
 </p>
 
-> Replace the image paths above with your actual screenshots.
+
 
 ---
 
